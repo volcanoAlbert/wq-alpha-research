@@ -148,4 +148,4 @@ Join the QuantML factor-research WeChat group, or scan the personal QR code to a
 
 | WeChat Group: QuantML Factor Research | Add Me as Friend |
 | :---: | :---: |
-| ![QuantML Factor Research Group QR](pic/20260624124943.jpg) | ![Add Friend QR](pic/20260624125220.jpg) |
+| <img src="pic/20260624124943.jpg" width="300" alt="QuantML Factor Research Group QR"> | <img src="pic/20260624125220.jpg" width="300" alt="Add Friend QR"> |
